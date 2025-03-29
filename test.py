@@ -50,5 +50,7 @@ def calculator():
     else:
         print("Invalid Input")
 
+        # added this comment 
+
 # Run the calculator
 calculator()
